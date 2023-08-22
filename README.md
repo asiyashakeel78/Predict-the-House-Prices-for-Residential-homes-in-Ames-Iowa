@@ -1,5 +1,5 @@
 # Predict-the-House-Prices-for-Residential-homes-in-Ames-Iowa
-![Picture1](https://github.com/asiyashakeel78/Predict-the-House-Prices-for-Residential-homes-in-Ames-Iowa/assets/126596256/acbb7aa7-1236-4622-8d54-ffb87114e5cf)
+![Picture1](https://github.com/asiyashakeel78/Predict-the-House-Prices-for-Residential-homes-in-Ames-Iowa/assets/126596256/6360450a-b622-4f07-a057-1e0dcec278a2)
 
 
 ## Please click the following link for details
